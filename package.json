@@ -1,14 +1,14 @@
 {
   "name": "vasco-da-gama-theme",
-  "publisher": "vascaino",
+  "publisher": "AdielsonMedeiros",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vascaino/vasco-da-gama-theme.git"
+    "url": "https://github.com/AdielsonMedeiros/Vasco-Theme.git"
   },
   "icon": "icon.png",
   "displayName": "Vasco da Gama Theme",
   "description": "Tema inspirado no Gigante da Colina",
-  "version": "0.0.2",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.60.0"
   },
