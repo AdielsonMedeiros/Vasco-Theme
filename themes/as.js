@@ -1,0 +1,1 @@
+console.log('%c ◤✠◢ VASCO ', 'background: #000; color: #fff; font-size: 20px; font-weight: bold; border: 2px solid red; border-radius: 5px;');

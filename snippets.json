@@ -1,0 +1,35 @@
+{
+  "Vasco ASCII": {
+    "prefix": "vasco",
+    "body": [
+      "/*",
+      "      .      ",
+      "     / \\     ",
+      "   _/   \\_   ",
+      "  /       \\  ",
+      " /    +    \\ ",
+      " \\         / ",
+      "  \\_     _/  ",
+      "    \\   /    ",
+      "     \\ /     ",
+      "      '      ",
+      "   VASCO     ",
+      "*/"
+    ],
+    "description": "Insere uma Cruz de Malta em ASCII Art"
+  },
+  "Log Vasco": {
+    "prefix": "console-vasco",
+    "body": [
+      "console.log('%c ◤✠◢ VASCO ', 'background: #000; color: #fff; font-size: 20px; font-weight: bold; border: 2px solid red; border-radius: 5px;');"
+    ],
+    "description": "Console Log estiloso do Vasco"
+  },
+  "Saudacao Vascalina": {
+    "prefix": "vasco-saudacao",
+    "body": [
+      "// O Sentimento Não Pode Parar! /+/"
+    ],
+    "description": "Comentário de saudação vascaína"
+  }
+}
